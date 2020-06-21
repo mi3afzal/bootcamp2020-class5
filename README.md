@@ -1,3 +1,12 @@
+# PIAIC BootCamp2020 Class5
+### Counter App with Theme switch
+
+http://irfan-bootcamp2020-class5.surge.sh/
+
+use React’s Context API and useReducer React Hook 
+Auto Deployment on Surge through Github actions with custome YAML config.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
