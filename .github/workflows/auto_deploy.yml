@@ -30,8 +30,10 @@ jobs:
       with:
         cmd: install
         
-    - name: Build React App
+    - name: Upgrading yarn
       run: yarn upgrade
+
+    - name: Build React App
       run: yarn build
       
     # Install Surge
